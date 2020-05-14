@@ -1,0 +1,21 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "build-ecommerce-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "exercise6-ecommerce"
+  },
+  "keywords": [
+    "ecommerce"
+  ],
+  "author": "wije sharma",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "express-myconnection": "^1.0.4",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  }
+}
